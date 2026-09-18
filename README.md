@@ -1,6 +1,6 @@
 # browser-ext-template
 
-一个基于 **Vue 3 + Vite + TypeScript + Pinia + Tailwind CSS** 的浏览器扩展（Chrome Extension MV3）开发模板。
+浏览器扩展（Chrome Extension MV3）开发模板，基于 **Vue 3 + Vite + TypeScript + Pinia + Tailwind CSS** 。
 
 抽离自实际项目的通用架构，开箱即用，专注于"快速启动一个新扩展"。内置 popup、newtab、background、content script 四类扩展入口，以及消息通信、存储封装、自动导入等基础设施。
 
